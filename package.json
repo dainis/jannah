@@ -1,9 +1,8 @@
 {
-  "name": "aamel",
+  "name": "jannah",
   "version": "0.0.1",
-  "description": "Headless web biatch",
+  "description": "Server",
   "dependencies": {
-    "acquire": "git://github.com/njpatel/acquire.git",
     "body-parser": "*",
     "compression": "*",
     "connect": "*",
@@ -30,7 +29,7 @@
     "npm": "1.1.x"
   },
   "devDependencies": {},
-  "repository": "git@bitbucket.org:omaal/aamel.git",
-  "license": "commercial",
+  "repository": "git@github.com:Asynchq/jannah.git",
+  "license": "Apache",
   "private": true
 }
